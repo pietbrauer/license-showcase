@@ -1,0 +1,19 @@
+{
+  "name": "license-showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pietbrauer/license-showcase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietbrauer/license-showcase/issues"
+  },
+  "homepage": "https://github.com/pietbrauer/license-showcase#readme"
+}
