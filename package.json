@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pietbrauer/license-showcase/issues"
   },
-  "homepage": "https://github.com/pietbrauer/license-showcase#readme"
+  "homepage": "https://github.com/pietbrauer/license-showcase#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
