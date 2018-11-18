@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pietbrauer/license-showcase#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "sjcl": "^1.0.7"
   }
 }
